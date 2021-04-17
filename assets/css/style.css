@@ -1136,6 +1136,7 @@ footer .footer-wrapper .container .footer-bottom .rights {
 }
 footer .footer-wrapper .container .footer-bottom .glyanets {
   display: flex;
+  visibility: hidden;
 }
 footer .footer-wrapper .container .footer-bottom .glyanets img {
   display: inline-block;
